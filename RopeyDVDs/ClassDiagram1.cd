@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RopeyDVDs.AddDVD">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAEAAEAABgAAIAABAAIAABAAgAAAAAAAAEIEAIY=</HashCode>
+      <FileName>AddDVD.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ChangePassword">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAEQAQAAEAAAAAAAAAIAAAAAAAAIAIgA=</HashCode>
+      <FileName>ChangePassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.Concat">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.CurrentlyLoanedDVD">
+    <Position X="6.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAAAAAAAAAAAAAAAgAAAAAAACAAAAQAoAAAA=</HashCode>
+      <FileName>CurrentlyLoanedDVD.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.DeleteOldDVDCopies">
+    <Position X="9.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEAAAAAAAgAAAAAAAAACAAgCAAAAAAIAAAA=</HashCode>
+      <FileName>DeleteOldDVDCopies.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.DisplayDVDsCopy">
+    <Position X="12" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAQAAAABAAAAAABAAIAAAAAACAAAAAAIAQAA=</HashCode>
+      <FileName>DisplayDVDsCopy.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.DisplayMovies">
+    <Position X="14.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAQAAAABQAAAAAAAAIAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>DisplayMovies.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.GlobalConnection">
+    <Position X="16.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.LoanDVDCopy">
+    <Position X="19" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AASACAEAAgAACAAAAAQAACACAAAAEEACAAQAAAIAAAA=</HashCode>
+      <FileName>LoanDVDCopy.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.LoanedCopiesDetails">
+    <Position X="21.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAgAAgAAAAAAAAAAACAAAAgAIEAAA=</HashCode>
+      <FileName>LoanedCopiesDetails.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.Login">
+    <Position X="0.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEAAAAAAEAAAAAAAAAAIAAACABIAAAAAAJCAgA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.LogInMaster">
+    <Position X="3" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>LogInMaster.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.main">
+    <Position X="5.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAABIAAAAAAAAAAAACIAAAA=</HashCode>
+      <FileName>main.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ManageAssistant">
+    <Position X="7.5" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAFGIAQEAQAAAAAIAAAAAAkAACAAAAAAICAwY=</HashCode>
+      <FileName>ManageAssistants.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.MemberDetailsWithNoBorrowSince31Days">
+    <Position X="10.25" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>MemberDetailsWithNoBorrowSince31Days.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ReturnLoanedDVDCopy">
+    <Position X="13.75" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAVABAAAAQAAAAAAAAAAIAEAACAAAAAAIFBQA=</HashCode>
+      <FileName>ReturnLoanedDVDCopy.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ViewCopyDetailsWithNoBorrowSince31Days">
+    <Position X="16.5" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAAAAAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>ViewCopyDetailsWithNoBorrowSince31Days.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ViewDVDsCopyMain">
+    <Position X="20" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAQAAAABAAAAAABAAAAAAAAACAAAAAAIAQAA=</HashCode>
+      <FileName>ViewDVDsCopyMain.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ViewDVDsMain">
+    <Position X="22.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAQAAAABQAAAAAAAAAAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>ViewDVDsMain.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ViewDVDsOrderedByReleaseDate">
+    <Position X="9" Y="10.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIABAA=</HashCode>
+      <FileName>ViewDVDsOrderedByReleaseDate.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ViewMemberDetails">
+    <Position X="12" Y="10.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>ViewMemberDetails.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeyDVDs.ViewDVDs">
+    <Position X="14.5" Y="10.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQoAAAAIAAAAAAAAAAAQAAAACAAAAAgIAAAA=</HashCode>
+      <FileName>ViewMemberDVDs.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
